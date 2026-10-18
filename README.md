@@ -1,2 +1,2 @@
 # github-final-project
-This repository is a test project.
+A simple Bash calculator that computes the interest earned on a principal amount over a specified time period.
